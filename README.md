@@ -120,9 +120,7 @@ The dashboard allows users to analyze:
 
 Aspiring Data Analyst passionate about transforming data into actionable insights using Power BI, SQL, Excel, and Python.
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+
